@@ -11,7 +11,7 @@ let person = {
     isExist: true,
 };
 let person1 = {
-    name: "Vijay",
+    name: "ajith",
     age: 25,
     isExist: true,
 };
