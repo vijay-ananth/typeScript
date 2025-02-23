@@ -10,5 +10,11 @@ let person: object = {
   isExist: true,
 };
 
+let person1: object = {
+  name: "Vijay",
+  age: 25,
+  isExist: true,
+};
+
 
 console.log(userName, age, isExist, mixed, mixed2, person);
